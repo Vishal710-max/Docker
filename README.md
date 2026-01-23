@@ -1,1 +1,1 @@
-Simple project to understand 
+Simple project to understand Docker
